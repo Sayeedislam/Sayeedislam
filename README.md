@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayeed Islam</h1>
+<h1 align="center">Hi,I'm Sayeed Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 💬 Ask me about **React,Javascript,Node.js**
